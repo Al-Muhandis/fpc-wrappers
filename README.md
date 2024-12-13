@@ -8,6 +8,7 @@ List of API wrappers for FreePascal/Lazarus
 
 ### Financial & cryptocurrencies
 [CurrencyRates](https://github.com/Al-Muhandis/CurrencyRates) Rate for traditional and crypto- currencies , service links: [CryptoCompare](https://www.cryptocompare.com/) [CBR](https://cbr.ru/)
+
 [fp-TON](https://github.com/Al-Muhandis/fp-ton) ton-api wrapper
 
 ### Geo, GPS, Maps
