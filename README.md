@@ -1,5 +1,6 @@
 # fpc-wrappers
 List of API wrappers for FreePascal/Lazarus
+Some of them are full-featured API wrappers, others are designed as a base with minimal functionality, but all must to be working. Add API wrappers that you know so that it is convenient to search if necessary
 
 ## Webservice APIs
 
