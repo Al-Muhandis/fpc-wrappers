@@ -18,6 +18,9 @@ Some of them are full-featured API wrappers, others are designed as a base with 
 ### Webmasters' services
 [Cloudflare](https://github.com/Al-Muhandis/CloudFlare) Cloudflare API wrappers [link](https://cloudflare.com)
 
+### AI
+[ChatGPT](https://github.com/marcelomaurin/CHATGPT) The class for interacting with ChatGPT [link](https://chatgpt.com)  in Lazarus 
+
 ## Messenger [bot's] API
 [fp-telegram](https://github.com/Al-Muhandis/fp-telegram) - Telegram bots' wrapper
 
